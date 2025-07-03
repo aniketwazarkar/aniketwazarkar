@@ -15,7 +15,7 @@ Backend Engineer with 1.5+ years of experience building scalable, distributed sy
 ---
 ## 📫 Get In Touch
 
-- 📧 Email: [wazarkar.aniket1.com](mailto:wazarkar.aniket1.com)
+- 📧 Email: [wazarkar.aniket1@gmail.com](mailto:wazarkar.aniket1@gmail.com)
 - 🌐 Website: [aniketwazarkar.in](https://aniketwazarkar.in)
 - 💼 LinkedIn: [linkedin.com/in/aniketwazarkar](https://linkedin.com/in/aniketwazarkar)
 - 📄 [View My Resume](https://drive.google.com/file/d/12Dd6lqnWLV-e1xTi6iY4-GkPw6zfpRXM/view?usp=drive_link)
