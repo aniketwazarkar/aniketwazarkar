@@ -1,6 +1,6 @@
 # Hi, I'm Aniket Wazarkar
 
-Backend Engineer with 1.5+ years of experience building scalable, distributed systems that power real-time applications used by millions. Currently at Jio Platforms, where I’ve contributed to core infrastructure of JioMeet+ and JioWorkspace, handling over 20M+ users.
+Backend Engineer with 2+ years of experience building scalable, distributed systems that power real-time applications used by millions. Currently at Jio Platforms, where I’ve contributed to core infrastructure of JioMeet+ and JioWorkspace, handling over 20M+ users.
 
 ---
 
