@@ -1,32 +1,35 @@
-# Hi, I'm Aniket Wazarkar
+# Hi, I'm Aniket Wazarkar 👋
 
-Backend Engineer with 2+ years of experience building scalable, distributed systems that power real-time applications used by millions. Currently at Jio Platforms, where I’ve contributed to core infrastructure of JioMeet+ and JioWorkspace, handling over 20M+ users.
+**Software Development Engineer** | Crafting high-performance systems and elegant digital experiences with architectural precision.
 
----
-
-## 🧑‍💻 About Me
-
-- 🔧 Specialize in backend engineering, distributed systems, and API performance optimization
-- 🧠 Strong focus on system design, sharding, observability, and cloud-native infrastructure
-- ⚙️ Languages I use often: **Golang**, **C++**, **TypeScript**, **Python**
-- ☁️ Familiar with AWS, GCP, Kubernetes, Docker, Prometheus, Redis, and MongoDB
-- 🚀 Built high-impact systems: custom media engine, document collaboration, real-time chat
-- 🛠️ Advocate for clean code, maintainable architecture, and root cause engineering
----
-## 📫 Get In Touch
-
-- 📧 Email: [wazarkar.aniket1@gmail.com](mailto:wazarkar.aniket1@gmail.com)
-- 🌐 Website: [aniketwazarkar.in](https://aniketwazarkar.in)
-- 💼 LinkedIn: [linkedin.com/in/aniketwazarkar](https://linkedin.com/in/aniketwazarkar)
-- 📄 [View My Resume](https://drive.google.com/file/d/12Dd6lqnWLV-e1xTi6iY4-GkPw6zfpRXM/view?usp=drive_link)
+With over 3 years of experience in backend and frontend development, I focus on building scalable, resilient systems and making architectural decisions that stand the test of time—what I call **Engineering with Intent**. I am currently building scalable microservices and infrastructure at **Smallcase**.
 
 ---
 
-## 🔍 Currently Exploring
-- Advanced system design patterns at scale
-- Optimizing distributed queues and event-driven architectures
-- Golang performance tuning and observability tooling
+## 🧑‍💻 My Journey
+
+- 💼 **Smallcase** *(Sept 2025 – Present)*: Software Development Engineer focusing on financial microservices and WebSocket infrastructure.
+- 💼 **Jio** *(Oct 2023 – Sept 2025)*: Software Development Engineer contributing to JioMeet+, Jio Workspace, and in-house media engines. Built core features like system sharding and Bloom filters for optimization.
+- 💼 **Capgemini** *(June 2022 – April 2023)*: Data Engineer Intern developing data pipelines utilizing Python and SQL.
 
 ---
 
-Thank you for visiting my profile. Feel free to connect or collaborate.
+## 🛠️ Tech Stack & Skills
+
+- **Languages:** C#, C++, JavaScript, TypeScript, Python, SQL, HTML5, CSS3
+- **Frameworks & Libraries:** .NET Core, React, Blazor, TailwindCSS, EF Core, Vite.js
+- **Cloud & Infrastructure:** Azure, AWS, GCP, Kubernetes, Docker, Prometheus, Redis
+- **Patterns & Practices:** System Design, Observability, Root Cause Engineering, Clean Code Architecture
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 **Website & Portfolio:** [aniketwazarkar.in](https://aniketwazarkar.in)
+- 💼 **LinkedIn:** [linkedin.com/in/aniketwazarkar](https://linkedin.com/in/aniketwazarkar)
+- 📧 **Email:** [wazarkar.aniket1@gmail.com](mailto:wazarkar.aniket1@gmail.com)
+- 📄 **Resume:** [View My Resume](https://drive.google.com/file/d/12Dd6lqnWLV-e1xTi6iY4-GkPw6zfpRXM/view?usp=drive_link)
+
+---
+
+*Thank you for visiting my profile. Feel free to connect or collaborate!*
