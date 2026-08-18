@@ -18,23 +18,17 @@ With over 3 years of experience in backend and frontend development, I focus on 
 
 ---
 
-## 💻 Most Used Languages
+## 📈 Contribution Heatmap (Like LeetCode)
 
-<div align="center">
-  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketwazarkar&layout=compact&theme=github_dark&hide_border=false&count_private=true&langs_count=8)](https://github.com/aniketwazarkar)
-
-</div>
-
-**Tech Proficiency:**
-- 🟦 **TypeScript** - Frequent | 🟩 **Python** - Frequent | 🟧 **C#** - Regular
-- 🟦 **JavaScript** - Regular | 🟪 **C++** - Regular | 🟥 **SQL** - Frequent
+<a href="https://github.com/aniketwazarkar">
+  <img alt="aniketwazarkar's contribution graph" src="https://github-contribution-graph.vercel.app/graph?username=aniketwazarkar&theme=github-dark" />
+</a>
 
 ---
 
-## 📈 GitHub Activity & Commit History
+## 🔥 Commit Activity Timeline
 
-[![Aniket's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aniketwazarkar&theme=github-dark&hide_border=false&custom_title=Commit%20Activity%20Graph)](https://github.com/aniketwazarkar)
+[![Aniket's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aniketwazarkar&theme=github-dark&hide_border=false&custom_title=Commit%20Timeline%20&%20Activity)](https://github.com/aniketwazarkar)
 
 ---
 
