@@ -20,15 +20,20 @@ With over 3 years of experience in backend and frontend development, I focus on 
 
 ## 📈 Contribution Heatmap (Like LeetCode)
 
-<a href="https://github.com/aniketwazarkar">
-  <img alt="aniketwazarkar's contribution graph" src="https://github-contribution-graph.vercel.app/graph?username=aniketwazarkar&theme=github-dark" />
-</a>
+<div align="center">
+
+**View My Full Contribution Calendar:**
+[![GitHub Contribution Calendar](https://img.shields.io/badge/GitHub_Contributions-View_Profile-0969da?style=for-the-badge&logo=github)](https://github.com/aniketwazarkar)
+
+</div>
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/409ba5/aniketwazarkar)
 
 ---
 
-## 🔥 Commit Activity Timeline
+## 🔥 Daily Commit Activity
 
-[![Aniket's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aniketwazarkar&theme=github-dark&hide_border=false&custom_title=Commit%20Timeline%20&%20Activity)](https://github.com/aniketwazarkar)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aniketwazarkar&theme=github-dark&hide_border=false" alt="Aniket's Activity Graph" width="100%" />
 
 ---
 
