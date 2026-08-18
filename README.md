@@ -6,6 +6,34 @@ With over 3 years of experience in backend and frontend development, I focus on 
 
 ---
 
+## 📊 GitHub Stats & Metrics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aniketwazarkar&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=aniketwazarkar&theme=dark&hide_border=true)
+
+</div>
+
+---
+
+## 💻 Most Used Languages
+
+<div align="center">
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketwazarkar&layout=compact&theme=dark&hide_border=true&count_private=true)
+
+</div>
+
+---
+
+## 📈 GitHub Activity Graph
+
+[![Aniket's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aniketwazarkar&theme=dark-dimmed&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 ## 🧑‍💻 My Journey
 
 - 💼 **Smallcase** *(Sept 2025 – Present)*: Software Development Engineer focusing on financial microservices and WebSocket infrastructure.
@@ -23,6 +51,15 @@ With over 3 years of experience in backend and frontend development, I focus on 
 
 ---
 
+## 🏆 Achievements
+
+![Pair Extraordinaire](https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png)
+![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)
+![Quickdraw](https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png)
+![YOLO](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png)
+
+---
+
 ## 📫 Let's Connect
 
 - 🌐 **Website & Portfolio:** [aniketwazarkar.in](https://aniketwazarkar.in)
@@ -32,4 +69,16 @@ With over 3 years of experience in backend and frontend development, I focus on 
 
 ---
 
+## 📌 Featured Projects
+
+Check out some of my highlighted work in the repositories section above!
+
+---
+
 *Thank you for visiting my profile. Feel free to connect or collaborate!*
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=aniketwazarkar&color=blue)
+
+</div>
