@@ -10,9 +10,9 @@ With over 3 years of experience in backend and frontend development, I focus on 
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aniketwazarkar&show_icons=true&theme=dark&hide_border=true&count_private=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aniketwazarkar&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/aniketwazarkar)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=aniketwazarkar&theme=dark&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aniketwazarkar&theme=dark&hide_border=false&background=0D1117)](https://github.com/aniketwazarkar)
 
 </div>
 
@@ -22,15 +22,26 @@ With over 3 years of experience in backend and frontend development, I focus on 
 
 <div align="center">
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketwazarkar&layout=compact&theme=dark&hide_border=true&count_private=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketwazarkar&layout=compact&theme=github_dark&hide_border=false&count_private=true&langs_count=8)](https://github.com/aniketwazarkar)
 
 </div>
 
+**Tech Proficiency:**
+- 🟦 **TypeScript** - Frequent | 🟩 **Python** - Frequent | 🟧 **C#** - Regular
+- 🟦 **JavaScript** - Regular | 🟪 **C++** - Regular | 🟥 **SQL** - Frequent
+
 ---
 
-## 📈 GitHub Activity Graph
+## 📈 GitHub Activity & Commit History
 
-[![Aniket's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aniketwazarkar&theme=dark-dimmed&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Aniket's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aniketwazarkar&theme=github-dark&hide_border=false&custom_title=Commit%20Activity%20Graph)](https://github.com/aniketwazarkar)
+
+---
+
+### 📅 Contribution Stats
+- **57 Repositories** | **10 Followers** | **3 Starred Repos**
+- Consistent contributor with focus on system design and scalable architecture
+- Active across full-stack development with emphasis on backend microservices
 
 ---
 
