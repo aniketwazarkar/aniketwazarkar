@@ -61,15 +61,6 @@ Total Commits: 1000+ | PRs: 200+ | Issues: 30+ | Contributions: 5000+
 
 ---
 
-## 🏆 Achievements
-
-![Pair Extraordinaire](https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png)
-![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)
-![Quickdraw](https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png)
-![YOLO](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png)
-
----
-
 ## 📫 Let's Connect
 
 - 🌐 **Website & Portfolio:** [aniketwazarkar.in](https://aniketwazarkar.in)
