@@ -9,16 +9,21 @@ With over 3 years of experience in backend and frontend development, I focus on 
 ## 📊 GitHub Stats & Metrics
 
 <div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aniketwazarkar&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/aniketwazarkar)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aniketwazarkar&theme=dark&hide_border=false&background=0D1117)](https://github.com/aniketwazarkar)
+![GitHub Stats](https://img.shields.io/badge/Repositories-57-blue?style=flat-square&logo=github)
+![Followers](https://img.shields.io/badge/Followers-10-green?style=flat-square&logo=github)
+![Following](https://img.shields.io/badge/Following-10-orange?style=flat-square&logo=github)
+
+**GitHub Stats Card:**
+```
+Total Commits: 1000+ | PRs: 200+ | Issues: 30+ | Contributions: 5000+
+```
 
 </div>
 
 ---
 
-## 📈 Contribution Heatmap (Like LeetCode)
+## 📈 Contribution Heatmap
 
 <div align="center">
 
@@ -35,12 +40,6 @@ With over 3 years of experience in backend and frontend development, I focus on 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniketwazarkar&theme=github-dark&hide_border=false" alt="Aniket's Activity Graph" width="100%" />
 
----
-
-### 📅 Contribution Stats
-- **57 Repositories** | **10 Followers** | **3 Starred Repos**
-- Consistent contributor with focus on system design and scalable architecture
-- Active across full-stack development with emphasis on backend microservices
 
 ---
 
@@ -54,10 +53,11 @@ With over 3 years of experience in backend and frontend development, I focus on 
 
 ## 🛠️ Tech Stack & Skills
 
-- **Languages:** C#, C++, JavaScript, TypeScript, Python, SQL, HTML5, CSS3
-- **Frameworks & Libraries:** .NET Core, React, Blazor, TailwindCSS, EF Core, Vite.js
-- **Cloud & Infrastructure:** Azure, AWS, GCP, Kubernetes, Docker, Prometheus, Redis
-- **Patterns & Practices:** System Design, Observability, Root Cause Engineering, Clean Code Architecture
+- **Languages:** Go, C++, Python, JavaScript, TypeScript, Java
+- **Backend Technologies:** gRPC, Node.js, Express, WebSockets, Socket.IO, RabbitMQ, REST
+- **Databases & Caching:** MongoDB, PostgreSQL, Redis, CockroachDB, Elasticsearch
+- **Cloud & Infrastructure:** AWS, GCP, Docker, Kubernetes, NGINX, ArgoCD
+- **Architecture & Practices:** Microservices, Distributed Systems, Sharding, Pub/Sub, Real-Time Systems, Worker Pools, Event-Driven Architecture, Caching Systems, Webhook Orchestration, AI Agents, Root Cause Analysis Automation
 
 ---
 
@@ -75,7 +75,7 @@ With over 3 years of experience in backend and frontend development, I focus on 
 - 🌐 **Website & Portfolio:** [aniketwazarkar.in](https://aniketwazarkar.in)
 - 💼 **LinkedIn:** [linkedin.com/in/aniketwazarkar](https://linkedin.com/in/aniketwazarkar)
 - 📧 **Email:** [wazarkar.aniket1@gmail.com](mailto:wazarkar.aniket1@gmail.com)
-- 📄 **Resume:** [View My Resume](https://drive.google.com/file/d/12Dd6lqnWLV-e1xTi6iY4-GkPw6zfpRXM/view?usp=drive_link)
+- 📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1RAuuypFdDH4iDq_BBv86a_xJ7kRvOhDP/view?usp=sharing)
 
 ---
 
