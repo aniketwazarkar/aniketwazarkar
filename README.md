@@ -16,7 +16,7 @@ With over 3 years of experience in backend and frontend development, I focus on 
 
 **GitHub Stats Card:**
 ```
-Total Commits: 1000+ | PRs: 200+ | Issues: 30+ | Contributions: 5000+
+Total Commits: 1000+ | PRs: 500+ | Issues: 30+ | Contributions: 5000+
 ```
 
 </div>
