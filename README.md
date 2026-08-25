@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=0969DA&center=true&vCenter=true&width=560&lines=Aniket+Wazarkar;Software+Development+Engineer;Building+scalable+microservices" alt="typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=0969DA&center=true&vCenter=true&width=560&lines=Aniket+Wazarkar;Software+Development+Engineer;Building+scalable+microservices" alt="typing banner">
 
-<a href="https://linkedin.com/in/aniketwazarkar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:wazarkar.aniket1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://aniketwazarkar.in"><img src="https://img.shields.io/badge/Portfolio-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+<a href="https://linkedin.com/in/aniketwazarkar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:wazarkar.aniket1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://aniketwazarkar.in"><img src="https://img.shields.io/badge/Portfolio-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 
-<img src="https://komarev.com/ghpvc/?username=aniketwazarkar&color=0969da&label=profile+views&style=for-the-badge" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=aniketwazarkar&style=flat&color=0969da&label=profile+views" alt="profile views">
 
 </div>
 
@@ -18,16 +18,21 @@
 $ cat about.txt
 ```
 
-Software Development Engineer with 3+ years across backend and frontend, currently building scalable microservices and WebSocket infrastructure at **Smallcase**.
+Software Development Engineer with 3+ years across backend and frontend, currently building scalable
+microservices and WebSocket infrastructure at **Smallcase**.
 
-- 💼 Currently building **financial microservices** at [Smallcase](https://smallcase.com)
-- 🌐 Portfolio: **[aniketwazarkar.in](https://aniketwazarkar.in)**
-- 🧠 Focused on distributed systems, real-time infra, and root-cause automation
-- 📄 Resume: **[View my resume](https://drive.google.com/file/d/1RAuuypFdDH4iDq_BBv86a_xJ7kRvOhDP/view?usp=sharing)**
+- Currently building **financial microservices** at [Smallcase](https://smallcase.com)
+- Portfolio: **[aniketwazarkar.in](https://aniketwazarkar.in)**
+- Focused on **distributed systems, real-time infra, and root-cause automation**
+- Resume: **[view it here](https://drive.google.com/file/d/1RAuuypFdDH4iDq_BBv86a_xJ7kRvOhDP/view?usp=sharing)**
+
+<br>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=go,cpp,python,js,ts,java,nodejs,express,grpc,mongodb,postgres,redis,aws,gcp,docker,kubernetes,nginx,git&perline=9" alt="tech stack" />
+## `~/` toolbox
+
+<img src="https://skillicons.dev/icons?i=go,cpp,python,js,ts,java,nodejs,express,grpc,mongodb,postgres,redis,aws,gcp,docker,kubernetes,nginx,git&perline=9" alt="tech stack">
 
 </div>
 
@@ -35,35 +40,101 @@ Software Development Engineer with 3+ years across backend and frontend, current
 
 ## `~/` journey
 
-- 💼 **Smallcase** *(Sept 2025 – Present)* — SDE, financial microservices & WebSocket infrastructure
-- 💼 **Jio** *(Oct 2023 – Sept 2025)* — SDE on JioMeet+, Jio Workspace, in-house media engines; built system sharding and Bloom filter optimizations
-- 💼 **Capgemini** *(June 2022 – April 2023)* — Data Engineer Intern, Python/SQL data pipelines
+- **Smallcase** *(Sept 2025 – Present)* — SDE, financial microservices & WebSocket infrastructure
+- **Jio** *(Oct 2023 – Sept 2025)* — SDE on JioMeet+, Jio Workspace, in-house media engines; built system sharding and Bloom filter optimizations
+- **Capgemini** *(June 2022 – April 2023)* — Data Engineer Intern, Python/SQL data pipelines
 
 ---
+
+<div align="center">
 
 ## `~/` skill radar
 
-Left panel is self-rated, in [assets/skills.json](assets/skills.json) — right panel is real language bytes pulled from the GitHub API, redrawn daily.
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
 
-<img src="assets/radar.svg" width="100%" alt="skill radar">
+<!-- Self-rated - edit assets/skills.json, the workflow redraws it -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/radar-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
+  <img src="assets/radar-dark.svg" width="400" alt="skill radar chart">
+</picture>
+
+</td>
+<td width="50%" align="center" valign="middle">
+
+<!-- Live, built from real language byte counts across my repos -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/radar-langs-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
+  <img src="assets/radar-langs-dark.svg" width="400" alt="language radar chart">
+</picture>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## `~/` metrics
+<div align="center">
 
-Self-hosted and regenerated on a schedule by GitHub Actions — no third-party server to go down. The SVG adapts to your GitHub theme automatically.
+## `~/` contribution calendar
 
-<img src="assets/metrics.svg" width="100%" alt="GitHub metrics">
+<!-- 3D isometric calendar, regenerated every 6h by .github/workflows/metrics.yml -->
+<img src="assets/metrics.isocalendar.svg" width="90%" alt="3D isometric contribution calendar">
 
----
-
-## `~/` snake
+<br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aniketwazarkar/aniketwazarkar/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/aniketwazarkar/aniketwazarkar/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aniketwazarkar/aniketwazarkar/output/snake-light.svg">
-  <img src="https://raw.githubusercontent.com/aniketwazarkar/aniketwazarkar/output/snake-dark.svg" width="100%" alt="snake eating contribution graph">
+  <img src="https://raw.githubusercontent.com/aniketwazarkar/aniketwazarkar/output/snake-dark.svg" width="100%" alt="snake eating the contribution graph">
 </picture>
+
+</div>
+
+---
+
+<div align="center">
+
+## `~/` the numbers
+
+<!-- Self-hosted stat card - stars/repos/followers/streaks pulled live from
+     the API, not hardcoded. Own-repo replacement for github-readme-stats,
+     whose shared public instance goes down under load. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/card-stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg">
+  <img src="assets/card-stats-dark.svg" width="480" alt="GitHub statistics">
+</picture>
+
+<br>
+
+<img src="assets/metrics.languages.svg" height="165" alt="most used languages">
+
+<br><br>
+
+<img src="assets/metrics.achievements.svg" width="90%" alt="achievements">
+
+</div>
+
+---
+
+<div align="center">
+
+## `~/` selected work
+
+<!-- Cards generated by scripts/cards.py from assets/projects.json.
+     Stars, forks and language are pulled live from the API on every run.
+     Fill in your own repos in assets/projects.json before this section
+     will render anything. -->
+
+</div>
+
+<sub>Selected work renders once `assets/projects.json` lists real repos — see the file for the format.</sub>
 
 ---
 
