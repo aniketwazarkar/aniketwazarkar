@@ -1,8 +1,8 @@
 {
   "projects": [
-    { "repo": "Pune-Startup-Map" },
-    { "repo": "Tax-Sphere" },
-    { "repo": "leetcode-chrome-extension" },
-    { "repo": "Medical-Pager" }
+    { "repo": "Pune-Startup-Map", "description": "Interactive map of Pune's startup and VC ecosystem, with a review queue for community-submitted entries." },
+    { "repo": "Tax-Sphere", "description": "Private, on-device Android app that reads bank/UPI SMS, categorises spend, and flags missed tax deductions." },
+    { "repo": "leetcode-chrome-extension", "description": "Chrome extension that layers extra tooling onto the LeetCode problem-solving workflow." },
+    { "repo": "Medical-Pager", "description": "Real-time paging system for coordinating urgent alerts between medical staff." }
   ]
 }
