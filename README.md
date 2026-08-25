@@ -17,12 +17,12 @@
 
 ```console
 $ cat about.txt
+Software Development Engineer building scalable backend systems, distributed
+architectures, and high-scale financial and real-time platforms with
+Go, Redis, MongoDB, and gRPC — webhook orchestration, caching, sharding,
+AI agents, workflow automation, and concurrent data pipelines, across
+products like JioMeet+, JioWorkspace, and smallcase.
 ```
-
-Software Development Engineer building scalable backend systems, distributed architectures, and high-scale
-financial and real-time platforms with **Go, Redis, MongoDB, and gRPC** — webhook orchestration, caching,
-sharding, AI agents, workflow automation, and concurrent data pipelines, across products like **JioMeet+,
-JioWorkspace, and smallcase**.
 
 - Currently building **financial microservices** at [smallcase](https://smallcase.com)
 - Portfolio: **[aniketwazarkar.in](https://aniketwazarkar.in)**
