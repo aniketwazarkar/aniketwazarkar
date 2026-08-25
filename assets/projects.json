@@ -1,7 +1,8 @@
 {
-  "_comment": "Pick up to 4 of your own repos by exact name. description/language override what GitHub shows; stars/forks always come live from the API.",
   "projects": [
-    { "repo": "REPLACE_ME_repo_one", "description": "One-line pitch, not a commit message." },
-    { "repo": "REPLACE_ME_repo_two", "description": "One-line pitch, not a commit message." }
+    { "repo": "Pune-Startup-Map" },
+    { "repo": "Tax-Sphere" },
+    { "repo": "leetcode-chrome-extension" },
+    { "repo": "Medical-Pager" }
   ]
 }
