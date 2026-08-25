@@ -5,7 +5,7 @@
 <a href="https://linkedin.com/in/aniketwazarkar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:wazarkar.aniket1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://aniketwazarkar.in"><img src="https://img.shields.io/badge/Portfolio-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-<a href="https://leetcode.com/u/aniketwazarkar"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+<a href="https://leetcode.com/aniketwazarkar"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
 
 <img src="https://komarev.com/ghpvc/?username=aniketwazarkar&style=flat&color=0969da&label=profile+views" alt="profile views">
 
@@ -19,12 +19,14 @@
 $ cat about.txt
 ```
 
-Software Development Engineer with 3+ years across backend and frontend, currently building scalable
-microservices and WebSocket infrastructure at **Smallcase**.
+Software Development Engineer building scalable backend systems, distributed architectures, and high-scale
+financial and real-time platforms with **Go, Redis, MongoDB, and gRPC** — webhook orchestration, caching,
+sharding, AI agents, workflow automation, and concurrent data pipelines, across products like **JioMeet+,
+JioWorkspace, and smallcase**.
 
-- Currently building **financial microservices** at [Smallcase](https://smallcase.com)
+- Currently building **financial microservices** at [smallcase](https://smallcase.com)
 - Portfolio: **[aniketwazarkar.in](https://aniketwazarkar.in)**
-- Focused on **distributed systems, real-time infra, and root-cause automation**
+- Focused on **distributed systems, reliability, and root-cause automation**
 - Resume: **[view it here](https://drive.google.com/file/d/1YhOzC4OzjVcrviYdhFYU5LXHrEveLF6C/view?usp=drive_link)**
 
 <br>
@@ -33,7 +35,7 @@ microservices and WebSocket infrastructure at **Smallcase**.
 
 ## `~/` toolbox
 
-<img src="https://skillicons.dev/icons?i=go,cpp,python,js,ts,java,nodejs,express,grpc,mongodb,postgres,redis,aws,gcp,docker,kubernetes,nginx,git&perline=9" alt="tech stack">
+<img src="https://skillicons.dev/icons?i=go,cpp,java,python,js,ts,spring,nodejs,express,kafka,rabbitmq,postgres,mongodb,redis,elasticsearch,docker,kubernetes,aws,gcp,nginx,git&perline=11" alt="tech stack">
 
 </div>
 
@@ -41,9 +43,8 @@ microservices and WebSocket infrastructure at **Smallcase**.
 
 ## `~/` journey
 
-- **Smallcase** *(Sept 2025 – Present)* — SDE, financial microservices & WebSocket infrastructure
-- **Jio** *(Oct 2023 – Sept 2025)* — SDE on JioMeet+, Jio Workspace, in-house media engines; built system sharding and Bloom filter optimizations
-- **Capgemini** *(June 2022 – April 2023)* — Data Engineer Intern, Python/SQL data pipelines
+- **smallcase** *(Sept 2025 – Present)* — Backend systems for SIB onboarding, pledge workflows, and webhook orchestration in Go/Redis/MongoDB; refactored LAMF to be lender-agnostic, turning new-lender integration into a config change instead of a code change. Built an AI-powered debugging agent (Claude + Elastic/Redash MCP) that cuts mean-time-to-root-cause by **70%** across production tickets.
+- **Jio Platforms** *(Oct 2023 – Sept 2025)* — Engineered features on JioMeet+ (20M+ active users) and JioWorkspace; built Bloom-filter-based user status management, cutting CPU utilization by **40%**, and revamped Elasticsearch fuzzy search with recency-based scoring for faster, more relevant results.
 
 ---
 
