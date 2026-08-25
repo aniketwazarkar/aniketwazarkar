@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 440" width="920" height="440">
+
+    <style>
+      text { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; }
+      .title { font-size: 15px; font-weight: 700; fill: #1f2328; }
+      .label { font-size: 11px; font-weight: 600; fill: #1f2328; }
+      .value { font-size: 10px; fill: #57606a; }
+      .grid { fill: none; stroke: #d0d7de; stroke-width: 1; }
+      .fill-area { fill: #0969DA; fill-opacity: 0.28; stroke: #0969DA; stroke-width: 2; }
+      .dot { fill: #0969DA; }
+      @media (prefers-color-scheme: dark) {
+        .title { fill: #e6edf3; }
+        .label { fill: #e6edf3; }
+        .value { fill: #8b949e; }
+        .grid { stroke: #30363d; }
+      }
+    </style>
+    
+<text x="230.0" y="30" text-anchor="middle" class="title">Skill Radar</text>
+<polygon points="230.0,192.5 259.3,206.6 266.6,238.3 246.3,263.8 213.7,263.8 193.4,238.3 200.7,206.6" class="grid" />
+<polygon points="230.0,155.0 288.6,183.2 303.1,246.7 262.5,297.6 197.5,297.6 156.9,246.7 171.4,183.2" class="grid" />
+<polygon points="230.0,117.5 318.0,159.9 339.7,255.0 278.8,331.4 181.2,331.4 120.3,255.0 142.0,159.9" class="grid" />
+<polygon points="230.0,80.0 347.3,136.5 376.2,263.4 295.1,365.1 164.9,365.1 83.8,263.4 112.7,136.5" class="grid" />
+<line x1="230.0" y1="230.0" x2="230.0" y2="80.0" class="grid" />
+<line x1="230.0" y1="230.0" x2="347.3" y2="136.5" class="grid" />
+<line x1="230.0" y1="230.0" x2="376.2" y2="263.4" class="grid" />
+<line x1="230.0" y1="230.0" x2="295.1" y2="365.1" class="grid" />
+<line x1="230.0" y1="230.0" x2="164.9" y2="365.1" class="grid" />
+<line x1="230.0" y1="230.0" x2="83.8" y2="263.4" class="grid" />
+<line x1="230.0" y1="230.0" x2="112.7" y2="136.5" class="grid" />
+<polygon points="230.0,102.5 323.8,155.2 354.3,258.4 278.8,331.4 184.4,324.6 134.9,251.7 147.9,164.5" class="fill-area" />
+<circle cx="230.0" cy="102.5" r="4" class="dot" />
+<circle cx="323.8" cy="155.2" r="4" class="dot" />
+<circle cx="354.3" cy="258.4" r="4" class="dot" />
+<circle cx="278.8" cy="331.4" r="4" class="dot" />
+<circle cx="184.4" cy="324.6" r="4" class="dot" />
+<circle cx="134.9" cy="251.7" r="4" class="dot" />
+<circle cx="147.9" cy="164.5" r="4" class="dot" />
+<text x="230.0" y="46.0" text-anchor="middle" class="label">Go</text>
+<text x="230.0" y="60.0" text-anchor="middle" class="value">85</text>
+<text x="373.9" y="115.3" text-anchor="start" class="label">System Design</text>
+<text x="373.9" y="129.3" text-anchor="start" class="value">80</text>
+<text x="409.4" y="270.9" text-anchor="start" class="label">Backend / APIs</text>
+<text x="409.4" y="284.9" text-anchor="start" class="value">85</text>
+<text x="309.8" y="395.8" text-anchor="start" class="label">Databases</text>
+<text x="309.8" y="409.8" text-anchor="start" class="value">75</text>
+<text x="150.2" y="395.8" text-anchor="end" class="label">Cloud / DevOps</text>
+<text x="150.2" y="409.8" text-anchor="end" class="value">70</text>
+<text x="50.6" y="270.9" text-anchor="end" class="label">Python</text>
+<text x="50.6" y="284.9" text-anchor="end" class="value">65</text>
+<text x="86.1" y="115.3" text-anchor="end" class="label">TypeScript</text>
+<text x="86.1" y="129.3" text-anchor="end" class="value">70</text>
+<line x1="460" y1="10" x2="460" y2="430" class="grid" />
+<text x="690.0" y="30" text-anchor="middle" class="title">aniketwazarkar · language mix</text>
+<polygon points="690.0,192.5 719.3,206.6 726.6,238.3 706.3,263.8 673.7,263.8 653.4,238.3 660.7,206.6" class="grid" />
+<polygon points="690.0,155.0 748.6,183.2 763.1,246.7 722.5,297.6 657.5,297.6 616.9,246.7 631.4,183.2" class="grid" />
+<polygon points="690.0,117.5 778.0,159.9 799.7,255.0 738.8,331.4 641.2,331.4 580.3,255.0 602.0,159.9" class="grid" />
+<polygon points="690.0,80.0 807.3,136.5 836.2,263.4 755.1,365.1 624.9,365.1 543.8,263.4 572.7,136.5" class="grid" />
+<line x1="690.0" y1="230.0" x2="690.0" y2="80.0" class="grid" />
+<line x1="690.0" y1="230.0" x2="807.3" y2="136.5" class="grid" />
+<line x1="690.0" y1="230.0" x2="836.2" y2="263.4" class="grid" />
+<line x1="690.0" y1="230.0" x2="755.1" y2="365.1" class="grid" />
+<line x1="690.0" y1="230.0" x2="624.9" y2="365.1" class="grid" />
+<line x1="690.0" y1="230.0" x2="543.8" y2="263.4" class="grid" />
+<line x1="690.0" y1="230.0" x2="572.7" y2="136.5" class="grid" />
+<polygon points="690.0,80.0 712.9,211.8 708.7,234.3 698.0,246.6 685.4,239.5 681.4,232.0 683.9,225.1" class="fill-area" />
+<circle cx="690.0" cy="80.0" r="4" class="dot" />
+<circle cx="712.9" cy="211.8" r="4" class="dot" />
+<circle cx="708.7" cy="234.3" r="4" class="dot" />
+<circle cx="698.0" cy="246.6" r="4" class="dot" />
+<circle cx="685.4" cy="239.5" r="4" class="dot" />
+<circle cx="681.4" cy="232.0" r="4" class="dot" />
+<circle cx="683.9" cy="225.1" r="4" class="dot" />
+<text x="690.0" y="46.0" text-anchor="middle" class="label">Python</text>
+<text x="690.0" y="60.0" text-anchor="middle" class="value">100</text>
+<text x="833.9" y="115.3" text-anchor="start" class="label">Kotlin</text>
+<text x="833.9" y="129.3" text-anchor="start" class="value">20</text>
+<text x="869.4" y="270.9" text-anchor="start" class="label">C</text>
+<text x="869.4" y="284.9" text-anchor="start" class="value">13</text>
+<text x="769.8" y="395.8" text-anchor="start" class="label">JavaScript</text>
+<text x="769.8" y="409.8" text-anchor="start" class="value">12</text>
+<text x="610.2" y="395.8" text-anchor="end" class="label">Go</text>
+<text x="610.2" y="409.8" text-anchor="end" class="value">7</text>
+<text x="510.6" y="270.9" text-anchor="end" class="label">TypeScript</text>
+<text x="510.6" y="284.9" text-anchor="end" class="value">6</text>
+<text x="546.1" y="115.3" text-anchor="end" class="label">TeX</text>
+<text x="546.1" y="129.3" text-anchor="end" class="value">5</text>
+</svg>

@@ -41,6 +41,14 @@ Software Development Engineer with 3+ years across backend and frontend, current
 
 ---
 
+## `~/` skill radar
+
+Left panel is self-rated, in [assets/skills.json](assets/skills.json) — right panel is real language bytes pulled from the GitHub API, redrawn daily.
+
+<img src="assets/radar.svg" width="100%" alt="skill radar">
+
+---
+
 ## `~/` metrics
 
 Self-hosted and regenerated on a schedule by GitHub Actions — no third-party server to go down. The SVG adapts to your GitHub theme automatically.
@@ -49,7 +57,7 @@ Self-hosted and regenerated on a schedule by GitHub Actions — no third-party s
 
 ---
 
-## `~/` contributions
+## `~/` snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aniketwazarkar/aniketwazarkar/output/snake-dark.svg">

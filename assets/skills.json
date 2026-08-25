@@ -1,0 +1,12 @@
+{
+  "title": "Skill Radar",
+  "axes": [
+    { "label": "Go", "value": 85 },
+    { "label": "System Design", "value": 80 },
+    { "label": "Backend / APIs", "value": 85 },
+    { "label": "Databases", "value": 75 },
+    { "label": "Cloud / DevOps", "value": 70 },
+    { "label": "Python", "value": 65 },
+    { "label": "TypeScript", "value": 70 }
+  ]
+}
