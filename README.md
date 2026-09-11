@@ -24,10 +24,11 @@ AI agents, workflow automation, and concurrent data pipelines, across
 products like JioMeet+, JioWorkspace, and smallcase.
 ```
 
-- Currently building **financial microservices** at [smallcase](https://smallcase.com)
-- Portfolio: **[aniketwazarkar.in](https://aniketwazarkar.in)**
-- Focused on **distributed systems, reliability, and root-cause automation**
-- Resume: **[view it here](https://drive.google.com/file/d/1174osoOOUPvRp6VA8YwXoNhRUg2uvLby/view?usp=sharing)**
+* Currently building **financial microservices** at <a href="https://smallcase.com" target="_blank" rel="noopener noreferrer">smallcase</a>
+* Portfolio: **<a href="https://aniketwazarkar.in" target="_blank" rel="noopener noreferrer">aniketwazarkar.in</a>**
+* Focused on **distributed systems, reliability, and root-cause automation**
+* Resume: **<a href="https://drive.google.com/file/d/1174osoOOUPvRp6VA8YwXoNhRUg2uvLby/view?usp=sharing" target="_blank" rel="noopener noreferrer">view it here</a>**
+
 
 <br>
 
