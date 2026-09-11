@@ -27,7 +27,7 @@ products like JioMeet+, JioWorkspace, and smallcase.
 - Currently building **financial microservices** at [smallcase](https://smallcase.com)
 - Portfolio: **[aniketwazarkar.in](https://aniketwazarkar.in)**
 - Focused on **distributed systems, reliability, and root-cause automation**
-- Resume: **[view it here](https://drive.google.com/file/d/1YhOzC4OzjVcrviYdhFYU5LXHrEveLF6C/view?usp=drive_link)**
+- Resume: **[view it here](https://drive.google.com/file/d/1174osoOOUPvRp6VA8YwXoNhRUg2uvLby/view?usp=sharing)**
 
 <br>
 
